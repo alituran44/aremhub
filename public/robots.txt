@@ -1,0 +1,6 @@
+# aremhub (aremhub.com) Robots.txt Configuration
+User-agent: *
+Allow: /
+
+# Sitemap Location for Googlebot & Bingbot
+Sitemap: https://aremhub.com/sitemap.xml
