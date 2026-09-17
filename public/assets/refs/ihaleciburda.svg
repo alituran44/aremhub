@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <!-- Brand Icon -->
+  <g transform="translate(10, 10)">
+    <!-- Rounded Background Badge -->
+    <rect width="60" height="60" rx="16" fill="#0A284B" />
+    
+    <!-- Modern Gavel / Auction / Bidding Symbol -->
+    <path d="M22 38L34 26L40 32L28 44L22 38Z" fill="#84CC16" stroke="#84CC16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M31 35L44 48" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" />
+    <path d="M16 48H44" stroke="#84CC16" stroke-width="3" stroke-linecap="round" />
+    <circle cx="44" cy="20" r="4" fill="#60A5FA" />
+  </g>
+
+  <!-- Typography -->
+  <text x="82" y="39" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="900" fill="#0A284B" letter-spacing="-0.5">
+    İHALECİ<tspan fill="#2563EB">BURDA</tspan>
+  </text>
+  <text x="83" y="55" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="700" fill="#64748B" letter-spacing="1.8">
+    İHALE &amp; TEKLİF PLATFORMU
+  </text>
+</svg>
